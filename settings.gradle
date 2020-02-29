@@ -1,0 +1,2 @@
+rootProject.name='Spans and Spanable'
+include ':app'
